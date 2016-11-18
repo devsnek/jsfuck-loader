@@ -1,0 +1,20 @@
+{
+  "name": "jsfuck-loader",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "dependencies": {
+    "jsfuck": "^0.4.0"
+  },
+  "devDependencies": {},
+  "author": "Gus Caplan <me@gus.host>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guscaplan/jsfuck-loader.git"
+  },
+  "bugs": {
+    "url": "https://github.com/guscaplan/jsfuck-loader/issues"
+  },
+  "homepage": "https://github.com/guscaplan/jsfuck-loader#readme",
+  "description": "a webpack loader for jsfuck"
+}
